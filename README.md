@@ -1,17 +1,1 @@
-@Jxcob_Vfx  
-Hi, I'm JxcobVFX! I work in web design, machine learning, and gamedev.  
-I'm currently learning pygame for gamedev and advanced python  
-Languages I know (so far):  
-C  
-C+  
-C++  
-Python  
-Javascript  
-CSS  
-C#  
-Rust  
-Kali  
-Bitcoin  
-HTML  
-
-Contact me on github or through jxcobvfx@outlook.com
+Hi! I'm Jxcob-Vfx. I am a web designer and developer as well as machine learning algorithm and game logic programmer. I work in HTML, c++, CSS, Javascript, and Python, and right now I'm trying to learn Swift for iOS!
